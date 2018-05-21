@@ -7,6 +7,7 @@
     - [Progress](#progress)
     - [Lesson 01: Introduction](#lesson-01-introduction)
     - [Lesson 02: React.createElement](#lesson-02-reactcreateelement)
+    - [Lesson 03: JSX](#lesson-03-jsx)
 
 <!-- /TOC -->
 
@@ -17,7 +18,7 @@ Egghead.io Beginner's Guide to ReactJS Tutorial by Kent C. Dobbs [course link](h
 ### Progress
 
 - [X] ~~*Lesson 01*~~ [2018-05-21]
-- [ ] Lesson 02
+- [X] ~~*Lesson 02*~~ [2018-05-21]
 - [ ] Lesson 03
 - [ ] Lesson 04
 - [ ] Lesson 05
@@ -42,3 +43,7 @@ Egghead.io Beginner's Guide to ReactJS Tutorial by Kent C. Dobbs [course link](h
 
 ### Lesson 02: React.createElement
 
+- `React.createElement('html element type', {namedProps: value}, childrenProps)`
+- `ReactDOM.render(thisElement, toThisElement)`
+
+### Lesson 03: JSX
