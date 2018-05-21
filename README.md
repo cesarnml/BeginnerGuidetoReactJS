@@ -64,3 +64,6 @@ Egghead.io Beginner's Guide to ReactJS Tutorial by Kent C. Dobbs [course link](h
 ### Lesson 07: Rerender using SetInterval
 
 ### Lesson 08: Style React Components
+
+_Note:_ Aborted detailed course notes. This course sucks for a beginner. 
+The instruction is all over the place
